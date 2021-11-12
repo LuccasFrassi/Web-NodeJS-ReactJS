@@ -24,6 +24,7 @@ export class Alunos {
 
     @Column()
     endereço: string;
+
     @Column({
         default: false
     })
