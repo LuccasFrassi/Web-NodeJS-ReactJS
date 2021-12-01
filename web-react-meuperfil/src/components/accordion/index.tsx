@@ -10,9 +10,9 @@ function Tabela() {
           <Accordion.Header>Pessoal</Accordion.Header>
           <Accordion.Body>
             <ul>
-              <li>CEP: Abrobinha 123 </li>
-              <li>Bairro: Abrobinha 123 </li>
-              <li>Endereço: Abrobinha 123  </li>
+              <li>CEP: Abrobinha 1234 </li>
+              <li>Bairro: Abrobinha 1234 </li>
+              <li>Endereço: Abrobinha 1234  </li>
               <li>E-mail: luccasfrassi@gmail.com</li>
               <li>Cel: (13) - 991658989</li>
 
